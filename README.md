@@ -11,6 +11,8 @@ Example
 ---
 https://github.com/AzriAhmad/MakeAToast/releases/tag/0.0.1
 
+
+![alt tag](https://raw.githubusercontent.com/AzriAhmad/MakeAToast/master/Screenshot.png)
 Documentation
 ---
 
