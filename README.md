@@ -1,4 +1,4 @@
-# MakeAToast *for Your Legacy App UX*
+# MakeAToast *for Your Legacy App Microinteraction*
 Toast notification implementation for MS Access that is based on the Google [Guidelines] (https://www.google.com/design/spec/components/snackbars-toasts.html#)
 
 Disclaimer
